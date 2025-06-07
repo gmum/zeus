@@ -1,0 +1,12 @@
+# Please use python V 3.7 to be compatible with all packages
+scikit-learn~=1.5.2
+tqdm==4.62.1
+numpy~=1.26.4
+openml==0.12.2
+setuptools~=74.1.0
+wandb~=0.18.5
+omegaconf~=2.3.0
+torchmetrics~=1.6.0
+pandas~=2.2.3
+scipy~=1.14.1
+matplotlib~=3.9.2
